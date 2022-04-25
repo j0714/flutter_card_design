@@ -22,10 +22,10 @@ class Grade extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      backgroundColor: Colors.amber[800],
+      backgroundColor: Colors.blue,
       appBar: AppBar(
         title: Text("BBANTO"),
-        backgroundColor: Colors.amber[700],
+        backgroundColor: Colors.lightBlue,
         centerTitle: true,
         elevation: 0.0,
       ),
